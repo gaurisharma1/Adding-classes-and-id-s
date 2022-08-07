@@ -1,0 +1,25 @@
+
+.d{
+    background-color: bisque;
+}
+
+
+#o{
+    background-color: rgb(179, 229, 168);
+    color:deeppink;
+}
+
+#i{
+    background-color: lightgrey;
+    color: rgb(239, 56, 15);
+}
+
+.b{
+    /* background-color: lavender; */
+    text-decoration:none ;
+    margin: 0px;
+}
+
+#ig{
+    background-color: white;
+}
